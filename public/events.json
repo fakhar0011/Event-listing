@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "React Conference 2025",
+    "date": "2025-06-15",
+    "time": "10:00 AM",
+    "location": "Islamabad, ISL",
+    "description": "A full-day conference focusing on the latest in React.js and frontend development."
+  },
+  {
+    "id": 2,
+    "name": "Tech Innovators Meetup",
+    "date": "2025-07-01",
+    "time": "6:00 PM",
+    "location": "Lahore, LHR",
+    "description": "An evening meetup for networking and talks on emerging technologies."
+  },
+  {
+    "id": 3,
+    "name": "Startup Pitch Day",
+    "date": "2025-07-20",
+    "time": "2:00 PM",
+    "location": "Rawalpindi, Rwd",
+    "description": "Watch innovative startups pitch their ideas to investors and get feedback."
+  },
+  {
+    "id": 4,
+    "name": "Women in Tech Summit",
+    "date": "2025-08-05",
+    "time": "9:00 AM",
+    "location": "Karachi, KCH",
+    "description": "A day of inspiration and empowerment with tech talks and panels by women leaders."
+  },
+  {
+    "id": 5,
+    "name": "Frontend Developer Bootcamp",
+    "date": "2025-09-10",
+    "time": "11:00 AM",
+    "location": "Online",
+    "description": "A 1-day crash course covering modern frontend tools and best practices."
+  },
+  {
+    "id": 6,
+    "name": "React Conference",
+    "date": "2025-06-12",
+    "time": "10:00 AM",
+    "location": "Karachi",
+    "description": "Learn React with industry experts and build modern UIs."
+  },
+  {
+    "id": 7,
+    "name": "Node.js Backend Bootcamp",
+    "date": "2025-06-15",
+    "time": "02:00 PM",
+    "location": "Lahore",
+    "description": "Master backend development using Node.js and Express."
+  },
+  {
+    "id": 8,
+    "name": "DevOps Essentials Meetup",
+    "date": "2025-06-18",
+    "time": "11:00 AM",
+    "location": "Islamabad",
+    "description": "Understand CI/CD pipelines, Docker, and cloud deployments."
+  },
+  {
+    "id": 9,
+    "name": "Frontend Developer Summit",
+    "date": "2025-06-20",
+    "time": "03:30 PM",
+    "location": "Karachi",
+    "description": "Explore the latest trends in frontend development and tooling."
+  },
+  {
+    "id": 10,
+    "name": "API Design Workshop",
+    "date": "2025-06-22",
+    "time": "01:00 PM",
+    "location": "Lahore",
+    "description": "Hands-on session on RESTful API design with best practices."
+  },
+  {
+    "id": 11,
+    "name": "Docker & Kubernetes Crash Course",
+    "date": "2025-06-25",
+    "time": "09:30 AM",
+    "location": "Online",
+    "description": "Learn containerization and orchestration from scratch."
+  }
+]
