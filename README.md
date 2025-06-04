@@ -44,3 +44,8 @@ src/
    ```bash
    git clone https://github.com/fakhar0011/Event-listing.git
    cd featured-events-app
+2 ** Install dependencies **
+   npm install
+3 ** Start The App **
+ npm run dev
+

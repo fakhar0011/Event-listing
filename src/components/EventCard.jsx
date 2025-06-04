@@ -4,7 +4,7 @@ const EventCard = ({ event }) => {
   const { name, date, time, location, description } = event;
 
   return (
-    <div className="bg-white rounded-xl shadow-md hover:shadow-lg transition p-5 flex flex-col justify-between h-full">
+    <div className="bg-white rounded-xl shadow-md hover:shadow-lg transition p-5 text-center flex flex-col justify-between h-full">
       <div>
         <h3 className="text-xl font-semibold text-blue-600 mb-2">{name}</h3>
         <p className="text-sm text-gray-500 mb-1">
